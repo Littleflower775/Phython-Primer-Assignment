@@ -14,11 +14,13 @@ a = 'abcd'
 b = ''
 c = '12fad'
 d = 'apple orange'
+e = '?'
 
 print(a.isalpha())
 print(b.isalpha())
 print(c.isalpha())
 print(d.isalpha())
+print(e.isalpha())
 
 fruit_name = 'blueberry'
 print(fruit_name[4])
