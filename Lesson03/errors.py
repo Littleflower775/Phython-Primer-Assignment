@@ -25,7 +25,7 @@ user_input = input("What's the temperature? ")
 temperature = float(user_input)
 print(temperature)
 
-print("")
+print("\n")
 
 current_year = 2024
 user_yob = input("Enter the year of your birth: ")
