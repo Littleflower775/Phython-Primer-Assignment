@@ -11,6 +11,7 @@ def register_user(name, is_new=True):
 register_user('Julia')
 register_user('Xiaoyu', False)
 register_user('Cloe', True)
-register_user('Jodie')
+register_user('Jodie', False)
+register_user('Danny')
 
 print(user_list)
